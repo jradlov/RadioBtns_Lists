@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RadioBtns_Lists</string>
+    <string name="action_settings">Settings</string>
+
+  <string-array name="italian">
+    <item>Pasta</item>
+    <item>Pizza</item>
+    <item>Prosciutto</item>
+    <item>Salami</item>
+  </string-array>
+  <string-array name="french">
+    <item>Fromage</item>
+    <item>Escargot</item>
+    <item>Bouillabaisse</item>
+    <item>Salade Nicoise</item>
+  </string-array>
+  
+</resources>
